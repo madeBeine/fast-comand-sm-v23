@@ -1,0 +1,7 @@
+{
+  "name": "Fast Comand SM 23 LAST",
+  "description": "إدارة الطلبات والشحنات والمخزن والعملاء لشركة لوجستية.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
