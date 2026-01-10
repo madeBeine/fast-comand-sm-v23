@@ -1,0 +1,7 @@
+{
+  "name": "Fast Comand SM v2",
+  "description": "Logistics and Shipping Management System with AI Vision",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
