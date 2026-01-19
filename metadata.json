@@ -1,0 +1,8 @@
+{
+  "name": "Fast Comand SM 30",
+  "description": "Logistics and Shipping Management System with Advanced AI Product Finder",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
